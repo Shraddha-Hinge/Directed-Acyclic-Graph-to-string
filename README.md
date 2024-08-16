@@ -1,4 +1,4 @@
-# DAG (Directed Acyclic Graph) Project
+# Directed Acyclic Graph to String
 
 This Haskell project implements a simple Directed Acyclic Graph (DAG) system. The project includes functionality for inserting edges into the graph, building the graph from a list of edges, finding the root nodes, converting the graph to a string representation, validating the graph as a DAG, and exporting the graph to the DOT format for visualization.
 
